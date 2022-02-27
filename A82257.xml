@@ -1,0 +1,284 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration sent to the Lord Clifford, Earle of Cumberland. From the generall assembly of the kingdome of Scotland Holden at Edinburgh November the ninth, 1642. VVherin is declared their resolution to raise forces to secure the peace of that kingdome, and to assist the Parliament against the cavaliers, and all other evill-affected persons. Also a list of the names of the earles, viscounts, and barons, which have subscribed, to rayse 12. thousand horse and foot, for the removing evill councellors from about His Majesty.</title>
+            <author>Church of Scotland. General Assembly.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82257</idno>
+            <idno type="STC">Wing D792</idno>
+            <idno type="STC">Thomason E128_23</idno>
+            <idno type="STC">ESTC R23032</idno>
+            <idno type="EEBO-CITATION">99871896</idno>
+            <idno type="PROQUEST">99871896</idno>
+            <idno type="VID">156248</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82257)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156248)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E128[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration sent to the Lord Clifford, Earle of Cumberland. From the generall assembly of the kingdome of Scotland Holden at Edinburgh November the ninth, 1642. VVherin is declared their resolution to raise forces to secure the peace of that kingdome, and to assist the Parliament against the cavaliers, and all other evill-affected persons. Also a list of the names of the earles, viscounts, and barons, which have subscribed, to rayse 12. thousand horse and foot, for the removing evill councellors from about His Majesty.</title>
+                  <author>Church of Scotland. General Assembly.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>November. 28. Printed by T.F. for L.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cumberland, Henry Clifford, --  Earl of, 1591-1643.</term>
+               <term>England and Wales. --  Army --  Recruiting, enlistment, etc --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156248:1" rendition="simple:additions"/>
+            <p>A DECLARATION Sent to the Lord <hi>Clifford,</hi> Earle of CUMBERLAND. From the Generall Aſsembly of the Kingdome OF SCOTLAND Holden at <hi>Edingburgh November</hi> the ninth, 1642.</p>
+            <p>VVherin is declared their Reſoluti<g ref="char:EOLhyphen"/>on to raiſe Forces to ſecure the peace of that Kingdome, and to aſsiſt the Par<g ref="char:EOLhyphen"/>liament againſt the Cavaliers, and all other evill-affected perſons.</p>
+            <p>Alſo a Liſt of the Names of the Earles, Viſ<g ref="char:EOLhyphen"/>counts, and Barons, which have ſubſcribed, to rayſe 12. thouſand Horſe and Foot, for the removing evill Councellors from about his Majeſty.</p>
+            <p>LONDON, <hi>Novemb.</hi> 28. Printed by <hi>T.F.</hi> for <hi>L.W.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:156248:2"/>
+            <pb facs="tcp:156248:2"/>
+            <head>A Copie of a Letter ſent from the Nobility of SCOTLAND for the Right Hon: the Earle of CVMBERLAND.</head>
+            <opener>
+               <salute>Our most noble Lord:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>S in all theſe great Affaires which have been much noyſed abroad, our chiefeſt care hath beene to walke warrantably according to the lawes that are ſtill in force for that effect, ſo we are certainly perſwaded that amongſt our ſelves there are none, who can juſtly complaine of what hath paſſed, and for thoſe of our countrymen, who are now in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> if they be of that number as they are evill Sub<g ref="char:EOLhyphen"/>jects to our gratious Soveraigne, and worſe compatri<g ref="char:EOLhyphen"/>ots to us, ſo of all other the worſt Gueſts among you, whilſt they endeavour the remedy of their evills, and the eſcape of their deſerved puniſhment, the begining of an incureable diſeaſe betwixt the two Nations, to whom the quarrell ſhould no way extend; Jf the In<g ref="char:EOLhyphen"/>formations, and Proteſtations, made by us for this
+<pb facs="tcp:156248:3"/>end, and the Bond of our Covenant, ſworne to God and M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, have not cleered all ſcruples in the mind of our gratious Soveraigne hithérto, and of all good Sub<g ref="char:EOLhyphen"/>jects, it is not our fault, but rather our joyned misfor<g ref="char:EOLhyphen"/>tune, hat there are to many among you alſo in grea<g ref="char:EOLhyphen"/>teſt place and credit, whoſe private Byas runnes quite contrary to the publike good, and who are thoſe wic<g ref="char:EOLhyphen"/>ked ones riſing earely to poyſon the publique Foun<g ref="char:EOLhyphen"/>taine, and to ſowe the teares of unhappy Iealouſie and Diſcord, betwixt you &amp; us, before the good ſeed of our love, and reſpect to our Neighbour Nation can take place in your hearts, among all the evills of this kind which dayly overtakes us, next to the preſent undeſerved diſpleaſure of our Prince againſt us, (which God in his mercy to both, will take of in his owne time) there could nothing be fal<g ref="char:EOLhyphen"/>len ſo ſtrange and unexpected to us, as the drawing together of your Forces upon our Borders, which whether to defend your ſelfe, or annoy us, and ſo prepare and gather thoſe Clouds which threaten a ſore tempeſt to both wee for our part wiſh they may firſt periſh in the Shipwracke, who began firſt to daſh the one ſide againſt the other.</p>
+            <p>As for you my Lord, although your Place, Perſon, and Quality, the Honour, and Reputation of your former Life, may gaine us ſome aſſurance that your Lordſhip will bee wary to begin the quarrell, where<g ref="char:EOLhyphen"/>at onely Enemies to both Nations will rejoyce, and catch advantage.</p>
+            <p>Yet give us leave to doubt the feares that makes us thus ſtrengthen our Borders, or rather ſuſpect thoſe
+<pb facs="tcp:156248:3"/>pregnant preſumptions of a further project intended againſt this Nation by your power, which needs muſt make us beſtir our ſelves betimes at all hands for our ſafety, God is our witneſſe that we deſire no Nationall quarrell to ariſe betwixt us, or to taſt of that bitter fruit which may ſet both ours and your Childrens teeth on edge, but rather hold our ſelues obliged in conſcience of our duties to God, our Prince and all your Nation, our Brethren, to try all Juſt and lawfull meanes for the removall of all cauſes of difference betwixt His Majeſty and the Parliament, who are yet linked together, and ſhould be ſtill in all the bonds of a ſecond and common intereſt, and to be alwayes ready to offer the occaſion of greater ſatisfacti<g ref="char:EOLhyphen"/>on, this kind of clearing our loyall intentions to all to whome it may concerne, and namely your Lordſhip in regard of your place and command at this time by any meanes whatſoever would be thought expedient on both ſides, thus far we thought good to repreſent to your Lordſhip, being occaſio<g ref="char:EOLhyphen"/>nally together ſo few of us as in this place, for our ſelves and in the name of the reſt of our number, who altogether with us will endeavour our ſelves to raiſe a conſiderable force for removing of His Majeſties ill councell now attending his Royall perſon, ſeeking the ruine of all His Majeſties Kingdomes, we whoſe Names are under written expect your Lord-ſhips anſwere, and reſt</p>
+            <closer>
+               <dateline>Edingburgh, <date>the 9th of <hi>Nov.</hi> 1642.</date>
+               </dateline>
+               <signed>Your Lordſhips affectionate Friends. <hi>Argile, &amp;c.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="list_of_Scottish_nobility">
+            <pb facs="tcp:156248:4"/>
+            <list>
+               <head>A Liſt of the Nobillity of the King<g ref="char:EOLhyphen"/>dome of <hi>Scotland,</hi> which have ſubſcribed and ſtandeth affected to the King and Par<g ref="char:EOLhyphen"/>liament.</head>
+               <item>
+                  <list>
+                     <head>The Names of the Earles.</head>
+                     <item>THe E. of <hi>Argile.</hi>
+                     </item>
+                     <item>The E. of <hi>Arth.</hi>
+                     </item>
+                     <item>The E. of <hi>Buckham.</hi>
+                     </item>
+                     <item>The E. of <hi>Lethgoe.</hi>
+                     </item>
+                     <item>The E. of <hi>Pearch.</hi>
+                     </item>
+                     <item>The E. of <hi>Dunfarlin.</hi>
+                     </item>
+                     <item>The E. of <hi>Haddington.</hi>
+                     </item>
+                     <item>The E. of <hi>Carricke.</hi>
+                     </item>
+                     <item>The E. of <hi>Lowthiew.</hi>
+                     </item>
+                     <item>The E. of <hi>Dalhouſe.</hi>
+                     </item>
+                     <item>The E. of <hi>Caſtills.</hi>
+                     </item>
+                     <item>The E. of <hi>Glencarne.</hi>
+                     </item>
+                     <item>The E. of <hi>Murray.</hi>
+                     </item>
+                     <item>The E. of <hi>Moreton.</hi>
+                     </item>
+                     <item>The E. of <hi>Gatnes.</hi>
+                     </item>
+                     <item>The E. of <hi>Necheſdale.</hi>
+                     </item>
+                     <item>The E. of <hi>Abercorne.</hi>
+                     </item>
+                     <item>The E. of <hi>Tillibarne.</hi>
+                     </item>
+                     <item>The E. of <hi>Roxbrough.</hi>
+                     </item>
+                     <item>The E. of <hi>Marr.</hi>
+                     </item>
+                     <item>The E. of <hi>Marſhall.</hi>
+                     </item>
+                     <item>The E. <hi>Mountroſſe.</hi>
+                     </item>
+                     <item>The E. of <hi>Eglenton.</hi>
+                     </item>
+                     <item>The E. of <hi>Atholl.</hi>
+                     </item>
+                     <item>The E. of <hi>Dunfres.</hi>
+                     </item>
+                     <item>The E. of <hi>Quinbrough.</hi>
+                     </item>
+                     <item>The Earle of <hi>Wems.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>Viſcounts.</head>
+                     <item>Viſcount <hi>Aboyne.</hi>
+                     </item>
+                     <item>Viſcount <hi>Kenmore.</hi>
+                     </item>
+                     <item>Viſcount <hi>Dunbar.</hi>
+                     </item>
+                     <item>Viſcount <hi>Bethaven.</hi>
+                     </item>
+                     <item>Viſcount <hi>Thormand.</hi>
+                     </item>
+                  </list>
+               </item>
+               <pb facs="tcp:156248:4"/>
+               <item>
+                  <list>
+                     <head>The Names of the Barons.</head>
+                     <item>Baron <hi>Lowdon.</hi>
+                     </item>
+                     <item>Baron <hi>Lindſey.</hi>
+                     </item>
+                     <item>Baron <hi>Forbes.</hi>
+                     </item>
+                     <item>Baron <hi>Semple.</hi>
+                     </item>
+                     <item>Baron <hi>Sinekeleere.</hi>
+                     </item>
+                     <item>Baron <hi>Harris.</hi>
+                     </item>
+                     <item>Baron <hi>Horet.</hi>
+                     </item>
+                     <item>Baron <hi>Ogeleby.</hi>
+                     </item>
+                     <item>Baron <hi>Roſſe.</hi>
+                     </item>
+                     <item>Baron <hi>Thorphicken.</hi>
+                     </item>
+                     <item>Baron <hi>Londore.</hi>
+                     </item>
+                     <item>Baron <hi>Halliradhouſe.</hi>
+                     </item>
+                     <item>Baron <hi>Cowyer.</hi>
+                     </item>
+                     <item>Baron <hi>Grey.</hi>
+                     </item>
+                     <item>Baron <hi>Ockletry.</hi>
+                     </item>
+                     <item>Baron <hi>Oliphant.</hi>
+                     </item>
+                     <item>Baron <hi>Burleigh.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <p>THe Horſe and Foot ready rayſed for the aſſiſting of his Majeſty and the Parliament, are nere upon 12000. under the Command of the Earle of <hi>Dunfarlin,</hi> Generall of the Re<g ref="char:EOLhyphen"/>giments of Foot, and the Earle of <hi>Roxbrough,</hi> Generall of the Horſe, the Earles of <hi>Moreton,</hi> and <hi>Mountroſſe,</hi> chiefe Commanders of the 5000. ſouldiers to lye upon the Borders of <hi>Northumberland, Cumberland,</hi> and <hi>Weſtmerland,</hi> to hinder the proceedings of the Lord <hi>Clif<g ref="char:EOLhyphen"/>ford,</hi> who hath a great Army of Horſe and Foot, pillaging and plundering the Country thereabouts, with dayly other miſdemea<g ref="char:EOLhyphen"/>nors, as rapines<g ref="char:punc">▪</g> and ſuch like, <hi>&amp;c.</hi>
+            </p>
+         </div>
+         <div type="Parliamentary_order_of_restitution">
+            <pb facs="tcp:156248:5"/>
+            <opener>
+               <dateline>
+                  <date>Die Martis xxij. Novemb. 1642.</date>
+               </dateline>
+            </opener>
+            <head>An Order of the Commons Houſe of Parliament, concer<g ref="char:EOLhyphen"/>ning the Reſtitution of ſuch Goods to the Owners, as have beene violently taken from them, having been plundered or pillaged by the Soldiers.</head>
+            <p>Whereas the houſes of divers of his Majeſties good Subjects in the ſeverall Counties of <hi>England</hi> have been plundered, and their goods taken from them by ſtrong hand by Souldiers.</p>
+            <p>Jt is this day Ordered by the Commons Houſe of Parliament, That all ſuch goods (in whoſe poſſeſſion ſoever they be) being found by any party from whom they were taken, and deniall made of reſtitution upon ſight hereof; It ſhall be lawfull for them, or any of them, to call the Conſtables, and other Officers, and all other his Majeſties good peo<g ref="char:EOLhyphen"/>ple, to be aſsiſting, for the gaining the poſseſſion of them, by way of Examination of any that can give any information before any Officer, or otherwiſe, in whoſe hands they ſhall be found to remaine, and ſuch as ſhall aſſiſt in this buſineſse, ſhall be ſaved harmeleſse by vertue of this Order.</p>
+            <closer>
+               <signed>
+                  <hi>Hen. Elſing,</hi> Cler. Parl. D.C.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
